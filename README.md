@@ -62,6 +62,22 @@ La finalizarea implementării, Route-Seeker trebuie să ofere o soluție intuiti
 
 ---
 
+## Videoclip de prezentare
+[Link către videoclipul de prezentare a aplicației](https://drive.google.com/file/d/1APRKNDc_4-PsRituTiS3-bKVsHsaRNZT/view?usp=sharing)
+
+## Capturi de ecran
+<img width="1918" height="1002" alt="1" src="https://github.com/user-attachments/assets/f088f162-762f-497a-96ca-5a408c78a7c9" />
+<img width="1917" height="993" alt="2" src="https://github.com/user-attachments/assets/3bfb35f3-e11a-42e1-981e-8f12ef8f26ed" />
+
+<img width="1917" height="1016" alt="3" src="https://github.com/user-attachments/assets/622cac13-c85a-4ba2-be22-6ef3aa4731c9" />
+<img width="1918" height="1002" alt="4" src="https://github.com/user-attachments/assets/d4f6e372-d2cc-4e0a-91f8-06bd22deede7" />
+<img width="1917" height="986" alt="5" src="https://github.com/user-attachments/assets/f550f0f1-354e-4462-8285-e8c2b6790104" />
+<img width="1918" height="1005" alt="6" src="https://github.com/user-attachments/assets/5a6bcf98-40ea-492b-8538-cf2cbe89186d" />
+<img width="1918" height="1012" alt="7" src="https://github.com/user-attachments/assets/a57a87b7-096a-463b-84b1-4bc3649d0bb6" />
+<img width="1918" height="1001" alt="8" src="https://github.com/user-attachments/assets/23914a1d-a2c3-4e90-bfc3-bd5ca4c55c82" />
+<img width="1918" height="1011" alt="9" src="https://github.com/user-attachments/assets/418d13f5-6332-42ed-8ef5-33ac6083e591" />
+<img width="1918" height="1016" alt="10" src="https://github.com/user-attachments/assets/e9f89f58-4e1b-4c5c-99b3-5baa43f701c4" />
+
 # Documentație Back-End - Route-Seeker
 
 ## Cuprins
